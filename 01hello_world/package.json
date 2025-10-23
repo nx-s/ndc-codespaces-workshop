@@ -1,0 +1,9 @@
+{
+  "name": "demoapplication",
+  "version": "1.0.0",
+  "description": "Simple Hello World JavaScript demo",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  }
+}

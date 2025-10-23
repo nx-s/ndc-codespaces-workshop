@@ -1,0 +1,16 @@
+{
+  "name": "lab02-port-forwarding-demo",
+  "version": "1.0.0",
+  "description": "A simple web application for demonstrating port forwarding in CodeSpaces",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
